@@ -1,0 +1,24 @@
+{
+  "name": "dotbean",
+  "version": "1.0.0",
+  "description": "A simple Node.js library to load environment variables from a .env file.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "env",
+    "dotenv",
+    "environment",
+    "variables",
+    "configuration",
+    "node"
+  ],
+  "author": "Signal Bean",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/signalbean/dotbean.git"
+  }
+}
